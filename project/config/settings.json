@@ -1,0 +1,11 @@
+{
+  "app_name": "PDF Document Converter Pro",
+  "theme": "dark",
+  "matching": {
+    "threshold": 80
+  },
+  "ocr": {
+    "language": "vi",
+    "enabled": true
+  }
+}
